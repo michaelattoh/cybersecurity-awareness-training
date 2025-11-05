@@ -12,3 +12,7 @@ This repository contains cybersecurity awareness training materials designed to 
 - Presentation slides
 - Awareness summaries
 - Poster samples
+
+## Sample Materials
+- [Phishing Awareness Session](Phishing_Awareness_Session.pdf) – Training slides on identifying and avoiding phishing attacks.
+- [Quick Guide](Awareness_Quick_Guide.md) – One-page tips for secure online behaviour.
